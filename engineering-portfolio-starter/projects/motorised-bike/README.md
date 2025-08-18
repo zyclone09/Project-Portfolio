@@ -19,7 +19,8 @@
 ![Step 4](media/Final_build.jpg)
 - Ran multiple tests alongside prototyping and troubleshooting ideas for enhancing the ride quality and ensuring safety.
 
-> Embed short clips via links:  
+> Embed short clips via links:
+> - Instagram Project Page: https://www.instagram.com/machine_feels?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 > - Build timelapse: https://youtu.be/your-video
 > - Drive folder (raw media): https://drive.google.com/your-folder
 
@@ -99,6 +100,11 @@
 
 ## 6) Results
 - Photos of the final build, speed tests, satisfactory criterias were met:
+![step 5](media/results_1.png)
+- Initial speed and incline test showing real world performance
+
+![step 6](media/Results.png)
+- Achieved max speed of 52kph after modifiying the fuel ratios and increasing nozzle size in the carburator
   
 
 ## 7) Reflection (STAR)
