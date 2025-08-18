@@ -1,17 +1,18 @@
 # Motorised Bike Build
 
-> _Short tagline: what you built and why it matters._
+> Converted my old bike into a motorized one, learnt about mechanical systems, assembly and fitment techniques and had lots of fun!
 
-![Cover](media/cover.jpg)
+![Cover](media/Cover_Pic.jpg)
 
 ## 1) Overview
-- **Dates:** Jun–Aug 2021
+- **Dates:** Feb–Sept 2021
 - **Tools:** Hand tools, torque wrench, calipers, Loctite, CAD (for brackets)
-- **Skills:** Mechanical assembly, alignment, mounting design, safety checks
-- **Outcome:** Installed 2‑stroke 89cc kit with secure mounts, chain alignment within tolerance, safe operation
+- **Skills:** Mechanical assembly, alignment, mounting design, safety checks, prototyping, maintanance
+- **Outcome:** A fun motorized bike that runs on a 2-Stroke 89cc engine that reaches 54 kph
 
 ## 2) Gallery
-![Step 1](media/step-1.jpg)
+![Step 1](media/Build_v1.jpg)
+- **Notes:** Had initially designed to have the engine mounted on the top frame and seat column however with issues in mounting brackets and misaligned chain position.
 ![Step 2](media/step-2.jpg)
 
 > Embed short clips via links:  
