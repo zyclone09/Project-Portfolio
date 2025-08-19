@@ -1,18 +1,18 @@
 # Bluetooth Speaker Build
 
-> _Short tagline: what you built and why it matters._
+> _Basic Bluetooth Speaker build to learn about circuitry and soldering_
 
-![Cover](media/cover.jpg)
+![Cover](media/Components.jpeg)
 
 ## 1) Overview
-- **Dates:** 2021
-- **Tools:** Soldering iron, multimeter, CAD for enclosure, finishing tools
-- **Skills:** Circuit basics, driver selection, acoustic enclosure design, finishing
-- **Outcome:** Compact speaker with tuned enclosure; clean sound with minimal resonance
+- **Dates:** 17-09-2021
+- **Tools:** Soldering iron, flux, CAD for enclosure, finishing tools
+- **Skills:** Circuit basics, driver selection, acoustic enclosure design
+- **Outcome:** Compact speaker with Bluetooth connectivity; clean sound with minimal resonance
 
 ## 2) Gallery
-![Step 1](media/step-1.jpg)
-![Step 2](media/step-2.jpg)
+![Step 1](media/Speaker_circuit.jpeg)
+![Step 2](media/Schematic.png) - found online
 
 > Embed short clips via links:  
 > - Build timelapse: https://youtu.be/your-video
@@ -21,10 +21,19 @@
 ## 3) Bill of Materials (BOM)
 | Item | Spec | Source | Cost |
 |---|---|---|---|
-| {{Part}} | {{Spec}} | {{Link}} | {{$}} |
+| Drivers | 2x 20mm drivers | Hardware and Electronics store | $8 |
+| Bluetooth Audio Module | ESP32 | Hardware and Electronics store | $4 |
+| Battery | Li-ion 800mAh with JST connector | Hardware and Electronics store | $10 |
+| Wires | Assorted wires | Hardware and Electronics store | $1 |
+| Switch | Push switch | Hardware and Electronics store | $0.3 |
+| Flux | Standard soldering paste | Hardware and Electronics store | $0.98 |
+| Soldering coil | Standard solder | Hardware and Electronics store | $0.40 |
+| Case | Clear Casette case | Hardware and Electronics store | $5 |
+| Channel splitter | charging and channel spliter circuit board | Hardware and Electronics store | $2 |
+
 
 ## 4) Process Notes
-- **Design assumptions:** …  
+- **Design assumptions:** 
 - **Calculations / checks:** …  
 - **Tolerances / fasteners:** …  
 - **Testing:** …
