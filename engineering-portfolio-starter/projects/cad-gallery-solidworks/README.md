@@ -5,9 +5,12 @@
 ![Cover](media/cover.jpg)
 
 ## Highlights
-- **Parametric Shaft & Hub** — correct GD&T, transition fits.
-- **Sheetmetal Bracket** — flat pattern, bend allowances.
-- **Assembly with BOM** — exploded view + callouts.
+- **N95 Mask Design** — 3D scanning and surface modelling, texture rendering, model fitment.
+- **Peristaltic Valve** — Motion study, design for assembly.
+- **Card Wallet** — converting STEP files into SLDPRT files, GD&T, 3D Printing, Surface finishing.
+- **Samsung S8+ Case** - Material Properties, Design for Manufacturing, Learning CAD.
+- **Prusa MK4 Hotend + Heatsink** - Thermal & Structural Analysis, ANSYS FEA, Simulation modelling.
+
 
 ## Exports
 - PDF drawings (`/media`).
